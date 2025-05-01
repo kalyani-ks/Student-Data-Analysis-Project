@@ -1,4 +1,4 @@
-# Student-Data-Analysis-Project
+# Student-Data-Analysis-SQLProject
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyse student data. The project involves setting up a student database, performing exploratory data analysis (EDA), and answering specific questions through SQL queries.
 ## PROJECT OVERVIEW:
 
@@ -9,7 +9,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 1. **Set up a student database**: Creating and populating a student database with the provided student data.
 2. **Data cleaning**: Identifying and removing any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Performing basic EDA to understand the dataset.
-4. **Data Analysis**: using SQL to answer specific questions and derive insights from the student data.
+4. **Data Analysis**: SQL is used to answer specific questions and derive insights from the student data.
 
 ## PROJECT STRUCTURE:
 
